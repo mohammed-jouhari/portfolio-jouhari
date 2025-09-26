@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "name": "Dr. Mohammed Jouhari",
+    "role": "Assistant Professor of Computer Science",
+    "tagline": "IoT/IIoT IDS • Federated Learning • UAV/MEI • Network Security",
+    "email": "mohammed.jouhari1@uit.ac.ma",
+    "location": "Kenitra, Morocco",
+    "profiles": {
+      "linkedin": "https://www.linkedin.com/in/mohammed-jouhari-53303056",
+      "scholar": "https://scholar.google.fr/citations?user=EJncTwsAAAAJ&hl=fr",
+      "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57189074563",
+      "orcid": "https://orcid.org/0000-0001-5406-8594"
+    },
+    "headshot": "assets/img/headshot.jpg",
+    "cv_pdf": "assets/docs/CV.pdf"
+  },
+  "about": {
+    "summary_md": "Assistant Professor at Ibn Tofail University. Teaching cybersecurity, distributed systems, and intelligent networks. Research in IoT/IIoT intrusion detection, federated learning, UAV/MEI, and sensor networks.",
+    "keypoints": [
+      "Supervises Master's theses and PhD students",
+      "Co-organizer of scientific events and workshops",
+      "Active projects: IoT IDS, energy-efficient ML, UAV sensing"
+    ]
+  },
+  "education": [
+    {
+      "id": "phd-itu-2019",
+      "degree": "National PhD in Mathematics, Computer Science, and Applications",
+      "institution": "Ibn Tofail University, Faculty of Sciences, Kenitra",
+      "start": "2014-10",
+      "end": "2019-06",
+      "honors": "Highest honors (congratulations of the committee)",
+      "thesis_title": "Advances in Underwater Wireless Sensor Networks: Improvements in MAC Layer, Topology Control, and Geographic Routing Protocols",
+      "order": 1
+    },
+    {
+      "id": "msc-mvu-2013",
+      "degree": "Master’s Degree in Computer Science, Signals, and Telecommunications (Research Track)",
+      "institution": "Mohammed V University, Faculty of Sciences, Rabat",
+      "start": "2011-09",
+      "end": "2013-07",
+      "order": 2
+    },
+    {
+      "id": "bsc-mvu-2011",
+      "degree": "Bachelor’s Degree in Fundamental Studies in Physics",
+      "institution": "Mohammed V University, Faculty of Sciences, Rabat",
+      "start": "2009-09",
+      "end": "2011-07",
+      "order": 3
+    },
+    {
+      "id": "bac-2008",
+      "degree": "Baccalaureate in Experimental Sciences",
+      "institution": "Ibn Rochd High School, Temara",
+      "start": "2007-09",
+      "end": "2008-07",
+      "order": 4
+    }
+  ],
+  "experience": [
+    {
+      "id": "itu-asstprof-2024",
+      "title": "Assistant Professor",
+      "org": "Faculty of Sciences, Ibn Tofail University",
+      "location": "Kenitra",
+      "start": "2024-01",
+      "end": null,
+      "highlights": [
+        "Teaching in cybersecurity, distributed systems, intelligent networks",
+        "Supervision of Master and PhD theses",
+        "IoT & sensor network projects; co-organizer of workshops"
+      ],
+      "order": 1
+    },
+    {
+      "id": "emsi-asstprof-2023",
+      "title": "Assistant Professor",
+      "org": "Moroccan School of Engineering Sciences (EMSI)",
+      "location": "Tangier",
+      "start": "2023-01",
+      "end": "2024-01",
+      "highlights": [
+        "Courses: Unix systems, application security, virtualization",
+        "Supervised undergraduate final-year projects",
+        "Curricula development and innovative teaching methods"
+      ],
+      "order": 2
+    },
+    {
+      "id": "um6p-postdoc-2021",
+      "title": "Postdoctoral Researcher",
+      "org": "Mohammed VI Polytechnic University (UM6P)",
+      "start": "2021-01",
+      "end": "2023-01",
+      "highlights": [
+        "Energy-efficient ML for IoT and sensor networks",
+        "Publications in indexed journals; international conferences",
+        "Collaborations with national and international teams"
+      ],
+      "order": 3
+    },
+    {
+      "id": "qu-postdoc-2020",
+      "title": "Postdoctoral Researcher",
+      "org": "Qatar University",
+      "start": "2020-01",
+      "end": "2021-01",
+      "highlights": [
+        "AI for drones and intelligent surveillance systems",
+        "Coordinated funded projects; joint publications",
+        "Supervised Master students in CS"
+      ],
+      "order": 4
+    },
+    {
+      "id": "itu-adjunct-2017",
+      "title": "Adjunct Lecturer",
+      "org": "Ibn Tofail University",
+      "start": "2017-01",
+      "end": "2020-01",
+      "highlights": [
+        "Courses: data security, VoIP, IPv6",
+        "Underwater wireless sensor networks research",
+        "Supervised research projects and Master's theses"
+      ],
+      "order": 5
+    }
+  ],
+  "publications": [
+    {
+      "id": "iot-2025-benaddi",
+      "type": "journal",
+      "title": "A lightweight hybrid approach for intrusion detection systems using a chi-square feature selection approach in IoT",
+      "authors": [
+        "H. Benaddi",
+        "M. Jouhari",
+        "O. Elharrouss"
+      ],
+      "venue": "Internet of Things",
+      "year": 2025,
+      "volume": "32",
+      "pages": "101624",
+      "doi": "https://doi.org/10.1016/j.iot.2025.101624",
+      "links": {
+        "publisher": "https://doi.org/10.1016/j.iot.2025.101624"
+      },
+      "tags": [
+        "IDS",
+        "IoT"
+      ],
+      "order": 1
+    },
+    {
+      "id": "comst-2022-lorawan-survey",
+      "type": "journal",
+      "title": "A survey on scalable LoRaWAN for massive IoT: Recent advances, potentials, and challenges",
+      "authors": [
+        "M. Jouhari",
+        "E. M. Amhoud",
+        "N. Saeed",
+        "M.-S. Alouini"
+      ],
+      "venue": "IEEE Communications Surveys & Tutorials",
+      "year": 2022,
+      "volume": "25",
+      "number": "3",
+      "pages": "1841–1876",
+      "doi": "10.1109/COMST.2023.3274934",
+      "links": {
+        "doi": "https://doi.org/10.1109/COMST.2023.3274934"
+      },
+      "tags": [
+        "LoRaWAN",
+        "Survey"
+      ]
+    },
+    {
+      "id": "sensors-2022-anomaly-iiot",
+      "type": "journal",
+      "title": "Anomaly detection in industrial IoT using distributional reinforcement learning and generative adversarial networks",
+      "authors": [
+        "H. Benaddi",
+        "M. Jouhari",
+        "K. Ibrahimi",
+        "J. B. Othman",
+        "A. Benslimane",
+        "E. M. Amhoud"
+      ],
+      "venue": "Sensors",
+      "year": 2022,
+      "number": "21",
+      "pages": "8085",
+      "doi": "10.3390/s22218085",
+      "links": {
+        "doi": "https://doi.org/10.3390/s22218085"
+      },
+      "tags": [
+        "IoT",
+        "DRL",
+        "GAN"
+      ]
+    },
+    {
+      "id": "tvt-2022-ids-drl",
+      "type": "journal",
+      "title": "Robust enhancement of intrusion detection systems using deep reinforcement learning and stochastic game approaches",
+      "authors": [
+        "H. Benaddi",
+        "K. Ibrahimi",
+        "A. Benslimane",
+        "M. Jouhari",
+        "J. Qadir"
+      ],
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "year": 2022,
+      "number": "10",
+      "pages": "11089–11102",
+      "doi": "10.1109/TVT.2022.3186834",
+      "links": {
+        "doi": "https://doi.org/10.1109/TVT.2022.3186834"
+      },
+      "tags": [
+        "IDS",
+        "DRL"
+      ]
+    },
+    {
+      "id": "jiot-2021-distributed-cnn-uav",
+      "type": "journal",
+      "title": "Distributed CNN inference on resource-constrained UAVs for surveillance systems: Design and optimization",
+      "authors": [
+        "M. Jouhari",
+        "et al."
+      ],
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2021,
+      "number": "2",
+      "pages": "1227–1242",
+      "doi": "10.1109/JIOT.2021.3079164",
+      "links": {
+        "doi": "https://doi.org/10.1109/JIOT.2021.3079164"
+      },
+      "tags": [
+        "UAV",
+        "Edge AI"
+      ]
+    },
+    {
+      "id": "access-2019-uwwsn-survey",
+      "type": "journal",
+      "title": "Underwater wireless sensor networks: A survey on enabling technologies, localization protocols, and Internet of Underwater Things",
+      "authors": [
+        "M. Jouhari",
+        "K. Ibrahimi",
+        "H. Tembine",
+        "J. Ben-Othman"
+      ],
+      "venue": "IEEE Access",
+      "year": 2019,
+      "pages": "96879–96899",
+      "doi": "10.1109/ACCESS.2019.2928876",
+      "links": {
+        "doi": "https://doi.org/10.1109/ACCESS.2019.2928876"
+      },
+      "tags": [
+        "UWSN",
+        "Survey"
+      ]
+    },
+    {
+      "id": "wincom-2024-unsw-nb15",
+      "type": "conference",
+      "title": "Efficient intrusion detection: Combining X2 feature selection with CNN-BiLSTM on the UNSW-NB15 dataset",
+      "authors": [
+        "M. Jouhari",
+        "H. Benaddi",
+        "K. Ibrahimi"
+      ],
+      "venue": "IEEE WINCOM",
+      "year": 2024,
+      "doi": "10.1109/WINCOM62286.2024.10658099",
+      "links": {
+        "doi": "https://doi.org/10.1109/WINCOM62286.2024.10658099"
+      },
+      "tags": [
+        "IDS",
+        "UNSW-NB15"
+      ]
+    },
+    {
+      "id": "iwcmc-2024-lightweight-ids",
+      "type": "conference",
+      "title": "Lightweight CNN-BiLSTM based intrusion detection systems for resource-constrained IoT devices",
+      "authors": [
+        "M. Jouhari",
+        "M. Guizani"
+      ],
+      "venue": "IEEE IWCMC (Ayia Napa, Cyprus)",
+      "year": 2024,
+      "doi": "10.1109/IWCMC61514.2024.10592352",
+      "links": {
+        "doi": "https://doi.org/10.1109/IWCMC61514.2024.10592352"
+      },
+      "tags": [
+        "IDS",
+        "Lightweight"
+      ]
+    },
+    {
+      "id": "globecom-2023-iot-cnn-lstm",
+      "type": "conference",
+      "title": "Improvement of anomaly detection system in the IoT networks using CNN-LSTM approach",
+      "authors": [
+        "H. Benaddi",
+        "M. Jouhari",
+        "K. Ibrahimi",
+        "A. Benslimane",
+        "E. M. Amhoud"
+      ],
+      "venue": "IEEE GLOBECOM (Kuala Lumpur, Malaysia)",
+      "year": 2023,
+      "doi": "10.1109/GLOBECOM54140.2023.10437475",
+      "links": {
+        "doi": "https://doi.org/10.1109/GLOBECOM54140.2023.10437475"
+      },
+      "tags": [
+        "IDS",
+        "IoT"
+      ]
+    },
+    {
+      "id": "globecom-2023-rxtotx-gan",
+      "type": "conference",
+      "title": "Conditional generative adversarial networks for RX-to-TX translation in wireless communication systems",
+      "authors": [
+        "E. M. Amhoud",
+        "M. Jouhari",
+        "T. Maksymyuk",
+        "K. Zerhouni",
+        "K. Ibrahimi"
+      ],
+      "venue": "IEEE GLOBECOM (Kuala Lumpur, Malaysia)",
+      "year": 2023,
+      "doi": "10.1109/GLOBECOM54140.2023.10437739",
+      "links": {
+        "doi": "https://doi.org/10.1109/GLOBECOM54140.2023.10437739"
+      },
+      "tags": [
+        "GAN",
+        "Wireless"
+      ]
+    },
+    {
+      "id": "vtc-2023-lora-localization",
+      "type": "conference",
+      "title": "Spreading factor assisted LoRa localization with deep reinforcement learning",
+      "authors": [
+        "Y. Etiabi",
+        "M. Jouhari",
+        "A. Burg",
+        "E. M. Amhoud"
+      ],
+      "venue": "IEEE 97th VTC (Florence, Italy)",
+      "year": 2023,
+      "doi": "10.1109/VTC2023-Spring57618.2023.10200189",
+      "links": {
+        "doi": "https://doi.org/10.1109/VTC2023-Spring57618.2023.10200189"
+      },
+      "tags": [
+        "LoRa",
+        "DRL"
+      ]
+    },
+    {
+      "id": "icc-2023-flying-lora",
+      "type": "conference",
+      "title": "Deep reinforcement learning-based energy efficiency optimization for flying LoRa gateways",
+      "authors": [
+        "M. Jouhari",
+        "K. Ibrahimi",
+        "J. B. Othman",
+        "E. M. Amhoud"
+      ],
+      "venue": "IEEE ICC (Rome, Italy)",
+      "year": 2023,
+      "doi": "10.1109/ICC45041.2023.10279198",
+      "links": {
+        "doi": "https://doi.org/10.1109/ICC45041.2023.10279198"
+      },
+      "tags": [
+        "LoRa",
+        "UAV",
+        "DRL"
+      ]
+    },
+    {
+      "id": "globecom-2022-adversarial-iot",
+      "type": "conference",
+      "title": "Adversarial attacks against IoT networks using conditional GAN based learning",
+      "authors": [
+        "H. Benaddi",
+        "M. Jouhari",
+        "E. M. Amhoud",
+        "K. Ibrahimi",
+        "A. Benslimane"
+      ],
+      "venue": "IEEE GLOBECOM (Rio de Janeiro, Brazil)",
+      "year": 2022,
+      "doi": "10.1109/GLOBECOM48099.2022.10000726",
+      "links": {
+        "doi": "https://doi.org/10.1109/GLOBECOM48099.2022.10000726"
+      },
+      "tags": [
+        "Adversarial",
+        "IoT"
+      ]
+    },
+    {
+      "id": "icc-2022-blockchain-selfish",
+      "type": "conference",
+      "title": "Analysis of blockchain selfish mining: A stochastic game approach",
+      "authors": [
+        "B. Jebari",
+        "M. Jouhari",
+        "K. Ibrahimi"
+      ],
+      "venue": "IEEE ICC (Seoul, South Korea)",
+      "year": 2022,
+      "doi": "10.1109/ICC45855.2022.9839233",
+      "links": {
+        "doi": "https://doi.org/10.1109/ICC45855.2022.9839233"
+      },
+      "tags": [
+        "Blockchain",
+        "Game Theory"
+      ]
+    },
+    {
+      "id": "globecom-2021-double-spending",
+      "type": "conference",
+      "title": "Securing IoT transactions against double-spending attacks based on signaling game approach",
+      "authors": [
+        "H. Benaddi",
+        "M. Jouhari",
+        "K. Ibrahimi",
+        "A. Benslimane"
+      ],
+      "venue": "IEEE GLOBECOM (Madrid, Spain)",
+      "year": 2021,
+      "doi": "10.1109/GLOBECOM46510.2021.9685598",
+      "links": {
+        "doi": "https://doi.org/10.1109/GLOBECOM46510.2021.9685598"
+      },
+      "tags": [
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "id": "iwcmc-2016-uwsn-greedy",
+      "type": "conference",
+      "title": "New greedy forwarding strategy for UWSNs geographic routing protocols",
+      "authors": [
+        "M. Jouhari",
+        "K. Ibrahimi",
+        "M. Benattou",
+        "A. Kobbane"
+      ],
+      "venue": "IWCMC (Paphos, Cyprus)",
+      "year": 2016,
+      "doi": "10.1109/IWCMC.2016.7577089",
+      "links": {
+        "doi": "https://doi.org/10.1109/IWCMC.2016.7577089"
+      },
+      "tags": [
+        "UWSN",
+        "Routing"
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "id": "teach-2024-virt-cloud",
+      "course": "Virtualization and Cloud Computing",
+      "level": "Master",
+      "hours": 32,
+      "institution": "Ibn Tofail University",
+      "year": "2024/2025",
+      "materials": []
+    },
+    {
+      "id": "teach-2024-digital-culture",
+      "course": "Digital Culture",
+      "level": "Bachelor",
+      "hours": 24,
+      "institution": "Ibn Tofail University (Law & Political Science)",
+      "year": "2024/2025",
+      "materials": []
+    },
+    {
+      "id": "teach-2023-unix",
+      "course": "Unix Operating Systems",
+      "level": "Engineering (Year 3)",
+      "hours": 32,
+      "institution": "EMSI Tangier",
+      "year": "2023/2024",
+      "materials": []
+    },
+    {
+      "id": "teach-2023-appsec",
+      "course": "Application Security",
+      "level": "Engineering (Year 4)",
+      "hours": 32,
+      "institution": "EMSI Tangier",
+      "year": "2023/2024",
+      "materials": []
+    },
+    {
+      "id": "teach-2023-virt",
+      "course": "Virtualization",
+      "level": "Engineering (Year 4)",
+      "hours": 24,
+      "institution": "EMSI Tangier",
+      "year": "2023/2024",
+      "materials": []
+    },
+    {
+      "id": "teach-2023-isd",
+      "course": "Information Systems Design",
+      "level": "Engineering (Year 3)",
+      "hours": 24,
+      "institution": "EMSI Tangier",
+      "year": "2023/2024",
+      "materials": []
+    },
+    {
+      "id": "teach-2023-uml",
+      "course": "Case Study: UML",
+      "level": "Engineering (Year 4)",
+      "hours": 32,
+      "institution": "EMSI Tangier",
+      "year": "2023/2024",
+      "materials": []
+    },
+    {
+      "id": "teach-2023-iso-gov",
+      "course": "Information Systems Governance",
+      "level": "Engineering (Year 5)",
+      "hours": 32,
+      "institution": "EMSI Tangier",
+      "year": "2023/2024",
+      "materials": []
+    },
+    {
+      "id": "teach-2023-cross-platform",
+      "course": "Cross-Platform Development",
+      "level": "Engineering (Year 5)",
+      "hours": 32,
+      "institution": "EMSI Tangier",
+      "year": "2023/2024",
+      "materials": []
+    },
+    {
+      "id": "teach-2021-data-sec",
+      "course": "Data Security",
+      "level": "Master",
+      "hours": 18,
+      "institution": "Ibn Tofail University",
+      "year": "2021/2022",
+      "materials": []
+    },
+    {
+      "id": "teach-2020-data-sec",
+      "course": "Data Security",
+      "level": "Master",
+      "hours": 32,
+      "institution": "Ibn Tofail University",
+      "year": "2019/2020",
+      "materials": []
+    },
+    {
+      "id": "teach-2018-data-sec",
+      "course": "Data Security",
+      "level": "Master",
+      "hours": 32,
+      "institution": "Ibn Tofail University",
+      "year": "2017/2018",
+      "materials": []
+    },
+    {
+      "id": "teach-2021-voip",
+      "course": "VoIP",
+      "level": "Bachelor",
+      "hours": 28,
+      "institution": "Ibn Tofail University",
+      "year": "2021/2022",
+      "materials": []
+    },
+    {
+      "id": "teach-2018-ipv6",
+      "course": "IPv6",
+      "level": "Bachelor",
+      "hours": 28,
+      "institution": "Ibn Tofail University",
+      "year": "2017/2018",
+      "materials": []
+    }
+  ],
+  "awards": [],
+  "service": {
+    "editorial": [
+      {
+        "id": "eb-hssc-2025",
+        "role": "Editorial Board Member",
+        "journal": "Humanities and Social Sciences Communications (Springer Nature)",
+        "start": "2025-01",
+        "end": null,
+        "responsibilities": [
+          "Editorial decisions",
+          "Peer review coordination",
+          "Manuscript quality assurance"
+        ]
+      }
+    ],
+    "reviewing_summary": {
+      "total_reviews": 55,
+      "focus": [
+        "IoT",
+        "Wireless",
+        "Cybersecurity"
+      ]
+    },
+    "tpc": [
+      {
+        "event": "IEEE Globecom",
+        "years": [
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "event": "IEEE ICC",
+        "years": [
+          "2022",
+          "2023"
+        ]
+      },
+      {
+        "event": "IEEE IWCMC",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "event": "WINCOM",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "event": "CommNet",
+        "years": [
+          "2021",
+          "2024"
+        ]
+      }
+    ],
+    "chairs": [
+      {
+        "event": "EngiTek 2025 Workshop on AI-Driven Network Security and Anomaly Detection (NSAD)",
+        "role": "Track Chair • Irbid, Jordan • 29–31 Dec 2025"
+      }
+    ]
+  }
+}
