@@ -18,6 +18,7 @@ function initSite(cv) {
   document.getElementById('name-foot').textContent = cv.meta?.name || 'Your Name';
   document.getElementById('tagline').textContent = cv.meta?.tagline || '';
   document.getElementById('year').textContent = new Date().getFullYear();
+  document.getElementById('quick-links').replaceChildren(...links.filter(Boolean));
 
   const links = [];
   const p = cv.meta?.profiles || {};
