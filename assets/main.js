@@ -18,7 +18,6 @@ function initSite(cv) {
   document.getElementById('name-foot').textContent = cv.meta?.name || 'Your Name';
   document.getElementById('tagline').textContent = cv.meta?.tagline || '';
   document.getElementById('year').textContent = new Date().getFullYear();
-  document.getElementById('quick-links').replaceChildren(...links.filter(Boolean));
 
   const links = [];
   const p = cv.meta?.profiles || {};
@@ -27,7 +26,7 @@ function initSite(cv) {
   if (p.scholar) links.push(linkBtn('Google Scholar', p.scholar));
   if (p.scopus) links.push(linkBtn('Scopus', p.scopus));
   if (p.linkedin) links.push(linkBtn('LinkedIn', p.linkedin));
-  document.getElementById('quick-links').replaceChildren(...links);
+  document.getElementById('quick-links').replaceChildren(...links.filter(Boolean));
 
   const routes = [
     { id:'about', label:'About', render: () => renderAbout(cv) },
