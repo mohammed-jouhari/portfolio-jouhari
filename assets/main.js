@@ -186,7 +186,14 @@ function renderContact(cv) {
 /* helpers */
 function md(txt){ return esc(txt).replace(/\n/g,'<br>'); }
 function esc(s){ return (s||'').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])); }
-function linkBtn(label, href){ return href ? `<a class="button" href="${href}" target="_blank" rel="noopener">${label}</a>` : ''; }
+function linkBtn(label, href){
+  if(!href) return null;
+  const a = document.createElement('a');
+  a.className = 'button';
+  a.href = href; a.target = '_blank'; a.rel = 'noopener';
+  a.textContent = label; 
+  return a;
+}
 function linkMaybe(label, href){ return href ? `<a href="${href}" target="_blank" rel="noopener">${label}</a>` : ''; }
 function cap(s){ return s.charAt(0).toUpperCase() + s.slice(1); }
 function sectionBlock(title, items){
